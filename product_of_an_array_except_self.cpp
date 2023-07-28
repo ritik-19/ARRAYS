@@ -1,4 +1,4 @@
-Approach 1:
+//Approach 1:
 vector<int> productExceptSelf(vector<int> &nums){
 for(int i=0;i<nums.size();i++){
 int multiply=1;
